@@ -1,4 +1,5 @@
 # Work-Planner
+TODO: add gif, make it look better
 
 ![]()
 A calendar application that allows the user to save events per hour of the work day
